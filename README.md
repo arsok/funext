@@ -1,2 +1,2 @@
 # Funext
-Funext is a library which provides some useful extension functions for Kotlin projects. <br>
+Funext is a library which provides some useful extension & infix functions for Kotlin projects. <br>
